@@ -8,11 +8,3 @@
 - **Built-in Virtual AI Demo Mode**: Test and demonstrate the system seamlessly even without a webcam or API key.
 - **Instant CSV Reporting**: One-click export of session attendance and engagement logs.
 
-## Quick Deployment on Vercel
-1. Upload or push this folder to a GitHub repository under **Shivnandnitakhtani**.
-2. Import the repository on [Vercel](https://vercel.com/new).
-3. Click **Deploy** — live in under 15 seconds!
-
-## Author
-**Shivnandni Takhtani**  
-GitHub: [@Shivnandnitakhtani](https://github.com/Shivnandnitakhtani)
