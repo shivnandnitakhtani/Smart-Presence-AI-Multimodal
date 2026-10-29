@@ -1,0 +1,18 @@
+{
+  "name": "smart-presence-ai",
+  "version": "2.0.0",
+  "description": "Lightweight Multimodal Attendance & Engagement Agent built for seamless Vercel deployment.",
+  "author": "Shivnandni Takhtani",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static build complete - ready for Vercel'"
+  },
+  "keywords": [
+    "attendance-agent",
+    "multimodal-ai",
+    "engagement-tracker",
+    "gemini-vision",
+    "vercel"
+  ]
+}
