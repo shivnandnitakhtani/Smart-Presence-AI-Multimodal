@@ -1,5 +1,4 @@
 {
   "version": 2,
-  "name": "smart-presence-ai",
-  "cleanUrls": true
+  "outputDirectory": "."
 }
